@@ -1,0 +1,43 @@
+{
+    "bundle_id": "com.luneder.recforever",
+    "name": "RecForever",
+    "version": "1.0",
+    "tagline": "Stuck your device to recovery mode by simply typing recforever on terminal. This will completely delete your iPhone's filesystem.",
+    "homepage": "https://luneder.github.io",
+    "developer": {
+        "name": "LuNeder",
+        "email": "luananeder@gmail.com"
+    },
+    "maintainer": {
+        "name": "LuNeder",
+        "email": "luananeder@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/1uc45MH"
+        },
+        {
+            "name": "Website",
+            "url": "https://luneder.github.io/"
+        },
+        null
+    ],
+    "section": "System",
+    "pre_dependencies": "",
+    "dependencies": "",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "tint": "#00ffea",
+    "works_min": "1.0",
+    "featured": "true",
+    "source": "https://github.com/LuNeder",
+    "changelog": [
+        {
+            "version": "1.0",
+            "changes": "initial release"
+        }
+    ],
+    "works_max": "99.9"
+}
