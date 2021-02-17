@@ -1,6 +1,6 @@
 # Silica
 
-Note: This is not Silica's repository. This is my jailbreak repo template, so I can generate my repo using silica.
+# Note: This is not Silica's repository. This is my jailbreak repo template, so I can generate my repo using silica.
 
 **Silica** is a static repo generator for jailbroken iOS devices developed by [Shuga](https://shuga.co) and supported by [Ignition](https://ignition.fun).
 
