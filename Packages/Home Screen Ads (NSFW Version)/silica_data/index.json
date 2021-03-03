@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.luneder.homescreenads-nsfw",
     "name": "Home Screen Ads (NSFW Version) (XenHTML)",
-    "version": "1.0",
+    "version": "1.1",
     "tagline": "Add ads to your Home Screen and/or Lock Screen. This version includes NSFW ads, check my repo for the one with no NSFW.",
     "homepage": "https://luneder.github.io",
     "developer": {
@@ -35,8 +35,8 @@
     "source": "https://github.com/LuNeder",
     "changelog": [
         {
-            "version": "1.0",
-            "changes": "initial release"
+            "version": "1.1",
+            "changes": "initial release of NSFW version"
         }
     ],
     "works_max": "99.9"

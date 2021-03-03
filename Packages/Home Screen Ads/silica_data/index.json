@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.luneder.homescreenads",
     "name": "Home Screen Ads (XenHTML)",
-    "version": "1.0",
+    "version": "1.1",
     "tagline": "Add ads to your Home Screen and/or Lock Screen",
     "homepage": "https://luneder.github.io",
     "developer": {
@@ -34,6 +34,10 @@
     "featured": "true",
     "source": "https://github.com/LuNeder",
     "changelog": [
+        {
+            "version": "1.1",
+            "changes": "Not much really, just change the iframe to the provided by a-ads to make sure everything works (it was working before, but just in case)"
+        },
         {
             "version": "1.0",
             "changes": "initial release"
