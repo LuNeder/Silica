@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.luneder.low-qualityiconsmadeonpaint",
     "name": "Low Quality Icons Made on Paint",
-    "version": "2.0",
+    "version": "2.1",
     "tagline": "Low quality icons made with my poor drawing skills. Apply with SnowBoard.",
     "homepage": "https://luneder.github.io",
     "developer": {
@@ -36,11 +36,15 @@
     "changelog": [
         {
             "version": "1.0",
-            "changes": "initial release"
+            "changes": "initial release \n"
         },
         {
             "version": "2.0",
-            "changes": "Add lots of new icons"
+            "changes": "Add lots of new icons \n"
+        },
+        {
+            "version": "2.1",
+            "changes": "Correct some icons that weren't showing up \n"
         }
     ],
     "works_max": "99.9"

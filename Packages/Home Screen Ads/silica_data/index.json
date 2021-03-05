@@ -36,11 +36,11 @@
     "changelog": [
         {
             "version": "1.0",
-            "changes": "initial release"
+            "changes": "initial release \n"
         },
         {
             "version": "1.1",
-            "changes": "Not much really, just change the iframe to the provided by a-ads to make sure everything works (it was working before, but just in case)"
+            "changes": "Not much really, just change the iframe to the provided by a-ads to make sure everything works (it was working before, but just in case) \n"
         }
     ],
     "works_max": "99.9"
